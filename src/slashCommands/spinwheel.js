@@ -1,7 +1,6 @@
 // Sample HelloWorld command example
 const { SlashCommandBuilder } = require('@discordjs/builders');
 
-
 function getRandomInt(max) {
     return Math.floor(Math.random() * max);
 }
